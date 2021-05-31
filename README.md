@@ -1,5 +1,5 @@
 # lockdown4point0
-A *very* quick proof of concept for plotting covid19 exposure sites in Victoria, Australia, using DHHS exposure site data
+A *very* quick proof of concept for plotting covid19 exposure sites in Victoria, Australia, using DHHS exposure site data.
 
 Uses data from data.gov.au to display suburb boundaries, and exposure site data pulled from the coronavirus.vic.gov.au site. Mashed together and visualised using Folium. 
 
