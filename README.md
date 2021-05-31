@@ -5,4 +5,4 @@ Uses data from data.gov.au to display suburb boundaries, and exposure site data 
 
 Created because I found it hard to keep up with the list of exposure sites on https://www.coronavirus.vic.gov.au/exposure-sites. Using a map makes it much more accessible. 
 
-TODO: Filter by date/time, improve geocoding. 
+TODO: Filter by date/time, improve geocoding, bus/train routes do not parse well, fix spelling mistakes in source data etc. 
